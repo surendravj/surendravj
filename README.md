@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendravj" alt="surendravj" /></a> </p>
 
-- 🔭 I am currently working as intern in [Software Engineer](https://www.lntinfotech.com/)
+- 🔭 I am currently working as Software engieer in [LTI](https://www.lntinfotech.com/)
 
 - 🌱 I’m currently learning **MySelf**
 
 - 👯 I’m looking to collaborate on **Intresting projects**
 
-- 👨‍💻 All of my projects are available at [https://surendradev.tk](https://surendradev.tk)
+- 👨‍💻 All of my projects are available at [Portfolio](https://surendravj.github.io/Myportfolio/)
 
 - 💬 Ask me about **Fullstack,Frontend,Backend,Native mobile app development**
 
